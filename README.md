@@ -66,12 +66,13 @@ Clone this repository and install the necessary dependencies.
 git clone https://github.com/your-repo/taskifier.git  
 cd taskifier  
 pip install -r requirements.txt
+```
 
 🧑‍💻 Usage
 
 Run the main script to start using Taskifier.
 
-python taskifier.py  
+```python taskifier.py  ```
 
 Input your task details and let Taskifier do the rest!
 
