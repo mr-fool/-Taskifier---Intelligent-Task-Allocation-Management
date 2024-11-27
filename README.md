@@ -78,7 +78,8 @@ Input your task details and let Taskifier do the rest!
 
 👨‍🎓 Authors
 
-    Wylliam Cheng - Boston University CS & BME
-    Jason Law
+Wylliam Cheng - Boston University CS & BME
+
+Jason Law
 
 
